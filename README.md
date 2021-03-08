@@ -3,3 +3,4 @@
 Receitas serão de comida humana, não de gatos.
 
 * Strogonoff de frango
+* Pavê
